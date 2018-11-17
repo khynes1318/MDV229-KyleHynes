@@ -1,0 +1,7 @@
+\\vmware-host\Shared Folders\Documents\Visual Studio 2017\Projects\PP2\KyleHynes_CodingExercise3and4\Exercise4\Exercise4\bin\Debug\Exercise4.exe.config
+\\vmware-host\Shared Folders\Documents\Visual Studio 2017\Projects\PP2\KyleHynes_CodingExercise3and4\Exercise4\Exercise4\bin\Debug\Exercise4.exe
+\\vmware-host\Shared Folders\Documents\Visual Studio 2017\Projects\PP2\KyleHynes_CodingExercise3and4\Exercise4\Exercise4\bin\Debug\Exercise4.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2017\Projects\PP2\KyleHynes_CodingExercise3and4\Exercise4\Exercise4\obj\Debug\Exercise4.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Visual Studio 2017\Projects\PP2\KyleHynes_CodingExercise3and4\Exercise4\Exercise4\obj\Debug\Exercise4.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Documents\Visual Studio 2017\Projects\PP2\KyleHynes_CodingExercise3and4\Exercise4\Exercise4\obj\Debug\Exercise4.exe
+\\vmware-host\Shared Folders\Documents\Visual Studio 2017\Projects\PP2\KyleHynes_CodingExercise3and4\Exercise4\Exercise4\obj\Debug\Exercise4.pdb
